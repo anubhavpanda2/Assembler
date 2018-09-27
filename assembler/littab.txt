@@ -1,0 +1,6 @@
+
+value	label	len
+
+32	=F'20	4
+
+36	=ADDRESS(34)	1

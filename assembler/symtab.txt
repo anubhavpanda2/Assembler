@@ -1,0 +1,14 @@
+
+value	label	len
+
+2	AC	1
+
+21	INDEX	4
+
+25	TOTAL	2
+
+32	SAVE	1
+
+8032	DATA1	1
+
+8048	TATA	1

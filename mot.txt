@@ -1,0 +1,7 @@
+opcode length  type
+ST	4	rx
+SPM	4	rs
+ST	4	rx
+SPM	4	rs
+ST	4	rx
+SPM	4	rs
